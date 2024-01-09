@@ -34,3 +34,6 @@ Further acknowledgments will be added upon project completion and final data sou
 ## License
 This project is licensed under the MIT - see the LICENSE.md file for details.
 
+## Link to project presentation
+`https://docs.google.com/presentation/d/16MxpvzO-vXPRLZimNIHHKDWK4DI1_ndoyTNyWoBK1kw/edit?usp=sharing`
+
