@@ -25,7 +25,7 @@ We welcome contributions to this project. Please fork the repository, make your 
 
 ## Acknowledgments
 - Housing price data provided by U.S. Census Bureau and U.S. Department of Housing and Urban Development, Median Sales Price of Houses Sold for the United States [MSPUS], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MSPUS, December 21, 2023.
-- Bitcoin price data sourced from 'https://raw.githubusercontent.com/colaberry/data/master/Bitcoin/bitcoin_dataset.csv' and `https://www.edx.org/` 
+- Bitcoin price data sourced from 'https://raw.githubusercontent.com/colaberry/data/master/Bitcoin/bitcoin_dataset.csv', `https://finance.yahoo.com/` and `https://www.edx.org/` 
 - Gold price data obtained from Macretrends `https://macrotrends.net/1333/historical-gold-prices-100-year-chart`.
 - CPI data acquired from U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average [CPILFESL], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CPILFESL, December 20, 2023..
 
